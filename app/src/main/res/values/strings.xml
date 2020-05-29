@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="signup">SignUp</string>
+    <string name="signin">SignIn</string>
+    <string name="full_name">Full Name</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="phone">Phone</string>
+    <string name="google_sign_in">Google Sign In</string>
+    <string name="forgot_password_reset_here">Forgot Password? Reset Here</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="headlines">Headlines</string>
+    <string name="skip"><![CDATA[Skip>>]]></string>
+    <string name="news_for_you">News for you</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="title_of_news">Title of News</string>
+    <string name="a_time_ago">a time ago</string>
+    <string name="error_title">Error Title</string>
+    <string name="error_message">Error Message</string>
+    <string name="retry">Retry</string>
+    <string name="author">Author</string>
+    <string name="_01_january_1990">01 January 1990</string>
+    <string name="title">Title</string>
+    <string name="desc">Desc</string>
+    <string name="source">Source</string>
+    <string name="time">Time</string>
+    <string name="todo">TODO</string>
+    <string name="news">NEWS</string>
+</resources>
